@@ -7,10 +7,15 @@
 
 - 🌱 I’m currently learning **Back End Development**
 
+- 👨‍💻 All of my projects are available at [https://eman-07.github.io/personalWebsite/](https://eman-07.github.io/personalWebsite/)
+
 - 📫 How to reach me **memanmaan44@gmail.com**
+
+- ⚡ Fun fact **I am a Gamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/muhammad-emandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-emandev" height="30" width="40" /></a>
 <a href="https://fb.com/m.eman.148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.eman.148" height="30" width="40" /></a>
 </p>
 
